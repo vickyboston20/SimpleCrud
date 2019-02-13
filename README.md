@@ -1,6 +1,6 @@
 # Simple CRUD
 
-# Use this to store, create, retrieve, add, delete, update any data (modify to your needs)
+# Use this to store, create, retrieve, delete, update any data (modify to your needs)
 
 //----------------------------Application------------------------//
 
